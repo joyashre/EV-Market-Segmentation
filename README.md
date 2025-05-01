@@ -15,6 +15,7 @@ FOR DATASETS:  https://electricvehicles.in/electric-vehicles-sales-report-in-ind
 
 FOR DATASETS:    https://www.kaggle.com/karivedha/indian-consumers-cars-purchasing-behaviour 
 
+#### As part of this project, I: 
 
  > 📊🔎 Exploratory Data Analysis (EDA): Uncovered patterns and relationships in the data.
 
@@ -36,3 +37,5 @@ Segmentation profiling & visualization
 > Objective:
 
 To provide actionable insights into the EV market by identifying consumer segments based on behavioral and income data.
+
+This hands-on project gave me deeper insights into unsupervised learning, market segmentation, and how data-driven strategies can shape the future of the EV industry.
