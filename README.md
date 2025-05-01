@@ -16,13 +16,13 @@ FOR DATASETS:  https://electricvehicles.in/electric-vehicles-sales-report-in-ind
 FOR DATASETS:    https://www.kaggle.com/karivedha/indian-consumers-cars-purchasing-behaviour 
 
 
-### > 📊🔎 Exploratory Data Analysis (EDA): Uncovered patterns and relationships in the data.
+ > 📊🔎 Exploratory Data Analysis (EDA): Uncovered patterns and relationships in the data.
 
-🧹 Preprocessing: Handled missing values, encoded categorical variables, and standardized features.
+ > 🧹 Preprocessing: Handled missing values, encoded categorical variables, and standardized features.
 
-🧠 Segmentation: Applied K-Means clustering with PCA for dimensionality reduction.
+ > 🧠 Segmentation: Applied K-Means clustering with PCA for dimensionality reduction.
 
-🧾 Profiling: Interpreted and described the identified consumer segments based on key variables.
+ > 🧾 Profiling: Interpreted and described the identified consumer segments based on key variables.
 
 ### > ⚙ Methods & Tools
 Python (Pandas, Scikit-learn, Seaborn, Matplotlib)
@@ -33,6 +33,6 @@ Principal Component Analysis (PCA)
 
 Segmentation profiling & visualization
 
-Objective:
+> Objective:
 
 To provide actionable insights into the EV market by identifying consumer segments based on behavioral and income data.
